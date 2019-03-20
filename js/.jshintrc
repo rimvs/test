@@ -4,7 +4,6 @@
     "undef" : true,
     "quotmark" : false,
     "trailing" : true,
-    
     "browser" : true,
     "jquery" : true
 
